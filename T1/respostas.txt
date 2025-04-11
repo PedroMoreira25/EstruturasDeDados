@@ -1,0 +1,21 @@
+1. Qual estrutura foi implementada?
+r.: Lista Linear Estática.
+
+2. Quais funcionalidades foram concluídas com sucesso?
+R.: todas as funcionalidades estão operando corretamente.
+
+3. O que foi mais fácil e o que foi mais difícil?
+R.: tudo foi fácil, pois já estava pronto.
+
+4. Em quais situações sua estrutura se destacaria?
+R.: em situações onde sabemos a quantidade máxima de livros. 
+
+5. Qual foi o desempenho observado com 50, 500 e 5.000 livros?
+R.: de 50 para 500 eu notei um salto maior no tempo para o programa rodar. Mas de 500 para 5.000 me pareceu rápido. 
+
+6. Quais operações foram mais custosas na sua estrutura?
+R.: Consultar livro por ISBN, Emprestar livro, Devolver livro
+
+7. Você implementaria essa estrutura em um sistema real? Por quê?
+R.: sim, pois é de fácil implementação e manutenção. 
+Porém, eu trabalharia para manter a lista ordenada, para sempre poder realizar uma busca binária.
